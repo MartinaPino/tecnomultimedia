@@ -1,6 +1,6 @@
 //Pino Martina
 //tp5 comision1
-//video
+//video https://youtu.be/gAvMLQBNKT8
 
 let objJuego;
 let fondo;
