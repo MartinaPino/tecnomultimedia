@@ -247,6 +247,7 @@ class Principal {
       this.objJuego.timerSeg++;
       this.objJuego.timer = 0;
     }
+    fill(255,0,0);
     text("tiempo: "+this.objJuego.timerSeg, 25, 10);
     this.objJuego.personaje.dibujar();
     for (let i=0; i<5; i++) {
